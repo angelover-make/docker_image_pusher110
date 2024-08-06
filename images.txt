@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-hlohaus789/g4f:latest
+infrastlabs/docker-headless:latest
